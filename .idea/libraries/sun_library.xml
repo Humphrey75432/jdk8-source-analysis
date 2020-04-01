@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sun library">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/cn/hhp/source" />
+    </SOURCES>
+  </library>
+</component>
