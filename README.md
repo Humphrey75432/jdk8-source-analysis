@@ -1,2 +1,2 @@
-# jdk8-source-analysis
-JDK8 source code analysis
+# Java 8源码分析项目于分析
+该项目为平日源码项目学习的脚手架项目，了解JDK中常用工具类的原理以及学习JDK中良好的设计模式。
