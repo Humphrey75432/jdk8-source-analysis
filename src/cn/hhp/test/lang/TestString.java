@@ -12,6 +12,10 @@ public class TestString {
         System.out.println("codePoint from String, s = " + sample.codePointAt(1));
         System.out.println("codePoint before String, s = " + sample.codePointBefore(1));
         System.out.println("codePointCount: " + sample.codePointCount(0, 2));
+
+        // equalsIgnoreCase的原理
+        String str = "hello";
+        System.out.println(str.equalsIgnoreCase("HeLLo"));
     }
 
     private static int calculateHashCode(char[] chars) {
